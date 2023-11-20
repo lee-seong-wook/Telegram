@@ -5,9 +5,9 @@
 
 ## 팀 소개
 
-|      이성욱       |          이용진         | 
+|      이성욱       |        이용진         | 
 | :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------|  
-<img width="160px" src="https://github.com/lee-seong-wook/object-detection-robot-/assets/130055880/81cae49a-dc9d-4fbd-81ad-cae715314337" />    |   <img width="160px" src="https://github.com/lee-seong-wook/object-detection-robot-/assets/130055880/b032aa51-f0d0-4354-b310-d57b3549b58a" />    |
+<img width="160px" src="https://github.com/lee-seong-wook/Telegram/assets/130055880/aad25424-64f8-4a2f-b28e-d19aee070db7" />    |   <img width="160px" src="https://github.com/lee-seong-wook/object-detection-robot-/assets/130055880/b032aa51-f0d0-4354-b310-d57b3549b58a" />    |
 |      작품 동작 제어            |        작품 동작 제어   | 
 | 대림대학교 메카트로닉스과 3학년 | 대림대학교 메카트로닉스과 3학년 |
 
